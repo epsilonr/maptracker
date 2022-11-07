@@ -11,7 +11,7 @@ const client = new Client({
 
 let prefix = "!";
 let CHANNELID = "1025105878346629140";
-let gtURL = "https://www.gametracker.com/server_info/ze.runawaytr.com:27015/";
+let gtURL = "gametrackerserverurl";
 
 let page;
 client.on("messageCreate", async (msg) => {
